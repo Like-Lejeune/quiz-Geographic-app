@@ -1,4 +1,4 @@
-# maker1
+# Cameroon Geographic application 
 
 A Flutter project.
 
